@@ -1,5 +1,5 @@
 # Builder Design Pattern (Java)
-**Builder Design**
+**Builder**
 ![](https://github.com/shamy1st/design-pattern-builder/blob/main/uml.png)
 ### Problem:
 
